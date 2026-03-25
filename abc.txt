@@ -1,3 +1,7 @@
 Welcome to ABC
 
+<<<<<<< HEAD
 changed made in testbranch-1
+=======
+this update in f-2 branch
+>>>>>>> feature-2
